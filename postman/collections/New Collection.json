@@ -44,7 +44,7 @@
 				},
 				{
 					"id": "1394661-79baa4bc-0e64-4101-9b7c-b36b5ce08674",
-					"name": "request with example",
+					"name": "400",
 					"originalRequest": {
 						"method": "GET",
 						"header": []
