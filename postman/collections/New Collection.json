@@ -6,7 +6,7 @@
 	},
 	"item": [
 		{
-			"name": "test 1",
+			"name": "request with example",
 			"id": "1394661-9cd450f9-b02a-4c0d-bea1-ef314b01c299",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
@@ -15,7 +15,21 @@
 				"method": "GET",
 				"header": []
 			},
-			"response": []
+			"response": [
+				{
+					"id": "1394661-0142e28a-ad00-40e0-bf56-2d603b07dab7",
+					"name": "request with example",
+					"originalRequest": {
+						"method": "GET",
+						"header": []
+					},
+					"_postman_previewlanguage": null,
+					"header": null,
+					"cookie": [],
+					"responseTime": null,
+					"body": null
+				}
+			]
 		}
 	]
 }
