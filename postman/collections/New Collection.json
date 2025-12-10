@@ -18,7 +18,7 @@
 			"response": [
 				{
 					"id": "1394661-0142e28a-ad00-40e0-bf56-2d603b07dab7",
-					"name": "request with example",
+					"name": "200 example",
 					"originalRequest": {
 						"method": "GET",
 						"header": []
