@@ -18,7 +18,7 @@
 			"response": [
 				{
 					"id": "1394661-731331c6-e511-4771-88a8-caa20f74d842",
-					"name": "request with example",
+					"name": "exp 400",
 					"originalRequest": {
 						"method": "GET",
 						"header": []
@@ -31,7 +31,7 @@
 				},
 				{
 					"id": "1394661-7c4ca515-323f-43d9-aed8-e382a592f04e",
-					"name": "request with example",
+					"name": "exp 300",
 					"originalRequest": {
 						"method": "GET",
 						"header": []
@@ -44,7 +44,7 @@
 				},
 				{
 					"id": "1394661-9bec0a10-e50e-4bff-a597-ad4206a9a249",
-					"name": "request with example",
+					"name": "exp 200",
 					"originalRequest": {
 						"method": "GET",
 						"header": []
