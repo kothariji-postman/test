@@ -29,21 +29,7 @@
 				"header": [],
 				"description": "fixed the bug"
 			},
-			"response": [
-				{
-					"id": "1394661-b075714b-bce0-48af-8228-e8dce5d81137",
-					"name": "exam_5",
-					"originalRequest": {
-						"method": "GET",
-						"header": []
-					},
-					"_postman_previewlanguage": null,
-					"header": null,
-					"cookie": [],
-					"responseTime": null,
-					"body": null
-				}
-			]
+			"response": []
 		}
 	]
 }
