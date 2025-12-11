@@ -32,7 +32,20 @@
 				},
 				{
 					"id": "1394661-be0a8486-74cf-490e-af9d-080077cfb780",
-					"name": "request with example",
+					"name": "exam_3",
+					"originalRequest": {
+						"method": "GET",
+						"header": []
+					},
+					"_postman_previewlanguage": null,
+					"header": null,
+					"cookie": [],
+					"responseTime": null,
+					"body": null
+				},
+				{
+					"id": "1394661-d38e17af-aea4-451a-a773-274c91eec486",
+					"name": "exam_4",
 					"originalRequest": {
 						"method": "GET",
 						"header": []
