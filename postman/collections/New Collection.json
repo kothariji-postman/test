@@ -59,7 +59,7 @@
 			]
 		},
 		{
-			"name": "New Request",
+			"name": "request with example 2",
 			"id": "1394661-7d756e3c-b502-4553-8a29-bec81b1cc22f",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
