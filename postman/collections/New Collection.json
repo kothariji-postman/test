@@ -18,19 +18,6 @@
 			},
 			"response": [
 				{
-					"id": "1394661-a6ee042c-730a-4a9a-9da0-e8f118014fdc",
-					"name": "200",
-					"originalRequest": {
-						"method": "GET",
-						"header": []
-					},
-					"_postman_previewlanguage": null,
-					"header": null,
-					"cookie": [],
-					"responseTime": null,
-					"body": null
-				},
-				{
 					"id": "1394661-13d44cc3-9fc7-409a-b40e-fa6ec7123a86",
 					"name": "300",
 					"originalRequest": {
