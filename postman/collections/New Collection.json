@@ -27,6 +27,19 @@
 			"request": {
 				"method": "GET",
 				"header": [],
+				"url": {
+					"raw": "https://jsonplaceholder.typicode.com/todos/1",
+					"protocol": "https",
+					"host": [
+						"jsonplaceholder",
+						"typicode",
+						"com"
+					],
+					"path": [
+						"todos",
+						"1"
+					]
+				},
 				"description": "Hello"
 			},
 			"response": []
