@@ -14,7 +14,7 @@
 			"request": {
 				"method": "GET",
 				"header": [],
-				"description": "fixed the bug"
+				"description": "Hello"
 			},
 			"response": []
 		},
@@ -27,7 +27,7 @@
 			"request": {
 				"method": "GET",
 				"header": [],
-				"description": "fixed the bug"
+				"description": "Hello"
 			},
 			"response": []
 		},
@@ -51,7 +51,8 @@
 					"path": [
 						"endpoint1"
 					]
-				}
+				},
+				"description": "Hello"
 			},
 			"response": []
 		},
@@ -75,7 +76,8 @@
 					"path": [
 						"endpoint2"
 					]
-				}
+				},
+				"description": "Hello"
 			},
 			"response": []
 		},
@@ -99,7 +101,8 @@
 					"path": [
 						"endpoint3"
 					]
-				}
+				},
+				"description": "Hello"
 			},
 			"response": []
 		}
