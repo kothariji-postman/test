@@ -53,7 +53,13 @@
 					"script": {
 						"id": "f157122e-f6e2-45e5-90fe-2959c01b283f",
 						"exec": [
-							"console.log('the request completed')"
+							"console.log('the request completed');",
+							"",
+							"// Parse the JSON response",
+							"const jsonData = pm.response.json();",
+							"",
+							"// Extract userId and set it as a collection variable",
+							"pm.collectionVariables.set(\"userId\", jsonData.userId);"
 						],
 						"type": "text/javascript",
 						"packages": {},
