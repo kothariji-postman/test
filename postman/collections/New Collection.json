@@ -33,6 +33,28 @@
 		},
 		{
 			"name": "Todos 1",
+			"event": [
+				{
+					"id": "62ddbeae-246b-4849-9d69-fb311cfcc70a",
+					"listen": "prerequest",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							"console.log('the request is starting ' )"
+						]
+					}
+				},
+				{
+					"id": "be4a8d1e-ddcf-4fa2-8700-d992f4afccf3",
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							"console.log('the request completed)"
+						]
+					}
+				}
+			],
 			"id": "1394661-7d756e3c-b502-4553-8a29-bec81b1cc22f",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
