@@ -75,7 +75,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "https://jsonplaceholder.typicode.com/todos/1",
+					"raw": "https://jsonplaceholder.typicode.com/todos/{{userId}}",
 					"protocol": "https",
 					"host": [
 						"jsonplaceholder",
@@ -84,7 +84,7 @@
 					],
 					"path": [
 						"todos",
-						"1"
+						"{{userId}}"
 					]
 				},
 				"description": "Hello"
