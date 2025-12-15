@@ -38,20 +38,26 @@
 					"id": "62ddbeae-246b-4849-9d69-fb311cfcc70a",
 					"listen": "prerequest",
 					"script": {
-						"type": "text/javascript",
+						"id": "05964906-76fe-45b1-ba59-d7da4e9da456",
 						"exec": [
-							"console.log('the request is starting ' )"
-						]
+							"console.log('the request is starting')"
+						],
+						"type": "text/javascript",
+						"packages": {},
+						"requests": {}
 					}
 				},
 				{
 					"id": "be4a8d1e-ddcf-4fa2-8700-d992f4afccf3",
 					"listen": "test",
 					"script": {
-						"type": "text/javascript",
+						"id": "f157122e-f6e2-45e5-90fe-2959c01b283f",
 						"exec": [
-							"console.log('the request completed)"
-						]
+							"console.log('the request completed')"
+						],
+						"type": "text/javascript",
+						"packages": {},
+						"requests": {}
 					}
 				}
 			],
