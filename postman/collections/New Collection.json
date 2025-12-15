@@ -6,7 +6,7 @@
 	},
 	"item": [
 		{
-			"name": "request with example",
+			"name": "Todos 2",
 			"id": "1394661-9cd450f9-b02a-4c0d-bea1-ef314b01c299",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
@@ -19,7 +19,7 @@
 			"response": []
 		},
 		{
-			"name": "request with example 2",
+			"name": "Todos 1",
 			"id": "1394661-7d756e3c-b502-4553-8a29-bec81b1cc22f",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
@@ -32,7 +32,7 @@
 			"response": []
 		},
 		{
-			"name": "New Request 1",
+			"name": "Todos 3",
 			"id": "1394661-e443c03c-89a0-45bf-994a-a9e8e79c4c52",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
@@ -57,7 +57,7 @@
 			"response": []
 		},
 		{
-			"name": "New Request 2",
+			"name": "Todos 4",
 			"id": "1394661-6027c971-c8f1-4215-8d90-3c0ba4ced4e9",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
