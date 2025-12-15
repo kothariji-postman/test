@@ -119,15 +119,16 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "https://api.example.com/endpoint3",
+					"raw": "https://jsonplaceholder.typicode.com/todos/5",
 					"protocol": "https",
 					"host": [
-						"api",
-						"example",
+						"jsonplaceholder",
+						"typicode",
 						"com"
 					],
 					"path": [
-						"endpoint3"
+						"todos",
+						"5"
 					]
 				},
 				"description": "Hello"
