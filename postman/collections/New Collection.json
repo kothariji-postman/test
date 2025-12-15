@@ -7,6 +7,24 @@
 	"item": [
 		{
 			"name": "Todos 2",
+			"event": [
+				{
+					"id": "f7935925-4305-4880-98c1-dabf10faaec1",
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							"console.log('the request completed');",
+							"",
+							"// Parse the JSON response",
+							"const jsonData = pm.response.json();",
+							"",
+							"// Extract userId and set it as a collection variable",
+							"pm.collectionVariables.set(\"userId\", jsonData.userId);"
+						]
+					}
+				}
+			],
 			"id": "1394661-9cd450f9-b02a-4c0d-bea1-ef314b01c299",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
@@ -93,6 +111,24 @@
 		},
 		{
 			"name": "Todos 3",
+			"event": [
+				{
+					"id": "db5d36a5-e779-457e-be3a-50e4931f83c6",
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							"console.log('the request completed');",
+							"",
+							"// Parse the JSON response",
+							"const jsonData = pm.response.json();",
+							"",
+							"// Extract userId and set it as a collection variable",
+							"pm.collectionVariables.set(\"userId\", jsonData.userId);"
+						]
+					}
+				}
+			],
 			"id": "1394661-e443c03c-89a0-45bf-994a-a9e8e79c4c52",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
@@ -119,6 +155,24 @@
 		},
 		{
 			"name": "Todos 4",
+			"event": [
+				{
+					"id": "d5370f49-b1cf-4e5d-b4e3-143277bee7c5",
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							"console.log('the request completed');",
+							"",
+							"// Parse the JSON response",
+							"const jsonData = pm.response.json();",
+							"",
+							"// Extract userId and set it as a collection variable",
+							"pm.collectionVariables.set(\"userId\", jsonData.userId);"
+						]
+					}
+				}
+			],
 			"id": "1394661-6027c971-c8f1-4215-8d90-3c0ba4ced4e9",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
@@ -145,6 +199,24 @@
 		},
 		{
 			"name": "Todos 5",
+			"event": [
+				{
+					"id": "555fb60a-d567-4cbb-a0ab-6cd51f47c771",
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							"console.log('the request completed');",
+							"",
+							"// Parse the JSON response",
+							"const jsonData = pm.response.json();",
+							"",
+							"// Extract userId and set it as a collection variable",
+							"pm.collectionVariables.set(\"userId\", jsonData.userId);"
+						]
+					}
+				}
+			],
 			"id": "1394661-2140da00-6432-4818-bf0e-d0acb5f94d95",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
