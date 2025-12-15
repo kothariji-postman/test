@@ -20,7 +20,10 @@
 							"const jsonData = pm.response.json();",
 							"",
 							"// Extract userId and set it as a collection variable",
-							"pm.collectionVariables.set(\"userId\", jsonData.userId);"
+							"pm.collectionVariables.set(\"userId\", jsonData.userId);",
+							"",
+							"// Print the userId in console",
+							"console.log(\"userId:\", jsonData.userId);"
 						]
 					}
 				}
@@ -69,7 +72,7 @@
 					"id": "be4a8d1e-ddcf-4fa2-8700-d992f4afccf3",
 					"listen": "test",
 					"script": {
-						"id": "f157122e-f6e2-45e5-90fe-2959c01b283f",
+						"type": "text/javascript",
 						"exec": [
 							"console.log('the request completed');",
 							"",
@@ -77,11 +80,11 @@
 							"const jsonData = pm.response.json();",
 							"",
 							"// Extract userId and set it as a collection variable",
-							"pm.collectionVariables.set(\"userId\", jsonData.userId);"
-						],
-						"type": "text/javascript",
-						"packages": {},
-						"requests": {}
+							"pm.collectionVariables.set(\"userId\", jsonData.userId);",
+							"",
+							"// Print the userId in console",
+							"console.log(\"userId:\", jsonData.userId);"
+						]
 					}
 				}
 			],
@@ -171,7 +174,10 @@
 							"const jsonData = pm.response.json();",
 							"",
 							"// Extract userId and set it as a collection variable",
-							"pm.collectionVariables.set(\"userId\", jsonData.userId);"
+							"pm.collectionVariables.set(\"userId\", jsonData.userId);",
+							"",
+							"// Print the userId in console",
+							"console.log(\"userId:\", jsonData.userId);"
 						]
 					}
 				}
