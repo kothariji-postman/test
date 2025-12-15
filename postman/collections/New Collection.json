@@ -169,5 +169,11 @@
 			},
 			"response": []
 		}
+	],
+	"variable": [
+		{
+			"key": "userId",
+			"value": ""
+		}
 	]
 }
