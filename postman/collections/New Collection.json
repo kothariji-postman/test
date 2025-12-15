@@ -30,6 +30,78 @@
 				"description": "fixed the bug"
 			},
 			"response": []
+		},
+		{
+			"name": "New Request 1",
+			"id": "1394661-e443c03c-89a0-45bf-994a-a9e8e79c4c52",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://api.example.com/endpoint1",
+					"protocol": "https",
+					"host": [
+						"api",
+						"example",
+						"com"
+					],
+					"path": [
+						"endpoint1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "New Request 2",
+			"id": "1394661-6027c971-c8f1-4215-8d90-3c0ba4ced4e9",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://api.example.com/endpoint2",
+					"protocol": "https",
+					"host": [
+						"api",
+						"example",
+						"com"
+					],
+					"path": [
+						"endpoint2"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "New Request 3",
+			"id": "1394661-2140da00-6432-4818-bf0e-d0acb5f94d95",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://api.example.com/endpoint3",
+					"protocol": "https",
+					"host": [
+						"api",
+						"example",
+						"com"
+					],
+					"path": [
+						"endpoint3"
+					]
+				}
+			},
+			"response": []
 		}
 	]
 }
