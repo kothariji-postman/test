@@ -124,7 +124,10 @@
 							"const jsonData = pm.response.json();",
 							"",
 							"// Extract userId and set it as a collection variable",
-							"pm.collectionVariables.set(\"userId\", jsonData.userId);"
+							"pm.collectionVariables.set(\"userId\", jsonData.userId);",
+							"",
+							"// Print the userId in console",
+							"console.log(\"userId:\", jsonData.userId);"
 						]
 					}
 				}
@@ -212,7 +215,10 @@
 							"const jsonData = pm.response.json();",
 							"",
 							"// Extract userId and set it as a collection variable",
-							"pm.collectionVariables.set(\"userId\", jsonData.userId);"
+							"pm.collectionVariables.set(\"userId\", jsonData.userId);",
+							"",
+							"// Print the userId in console",
+							"console.log(\"userId:\", jsonData.userId);"
 						]
 					}
 				}
